@@ -1,0 +1,410 @@
+"sample_ID","celltype","cell_number","cell_fraction_per_embryo"
+"ETiX-Day6-1","Endothelium",45,0.00478519778817524
+"ETiX-Day6-1","White blood cells",1,0.000106337728626117
+"ETiX-Day6-1","Primitive erythroid cells",1,0.000106337728626117
+"ETiX-Day6-1","Paraxial mesoderm",1,0.000106337728626117
+"ETiX-Day6-1","Neuromesodermal progenitors",6,0.000638026371756699
+"ETiX-Day6-1","Neuroectoderm",6,0.000638026371756699
+"ETiX-Day6-1","Surface ectoderm",13,0.00138239047213952
+"ETiX-Day6-1","Gut",7,0.000744364100382816
+"ETiX-Day6-1","Parietal endoderm",626,0.066567418119949
+"ETiX-Day6-1","Visceral endoderm",1360,0.144619310931519
+"ETiX-Day6-1","Amniotic mesoderm",4,0.000425350914504466
+"ETiX-Day6-1","Allantois",3,0.00031901318587835
+"ETiX-Day6-1","Extraembryonic ectoderm",2488,0.264568268821778
+"ETiX-Day6-1","Hematoendothelial progenitors",225,0.0239259889408762
+"ETiX-Day6-1","Early development",4618,0.491067630795406
+"ETiX-Day6-2","Endothelium",46,0.0235655737704918
+"ETiX-Day6-2","Cardiac mesoderm",1,0.000512295081967213
+"ETiX-Day6-2","Paraxial mesoderm",24,0.0122950819672131
+"ETiX-Day6-2","Neuromesodermal progenitors",17,0.00870901639344262
+"ETiX-Day6-2","Neural crest",2,0.00102459016393443
+"ETiX-Day6-2","Neuroectoderm",1,0.000512295081967213
+"ETiX-Day6-2","Surface ectoderm",15,0.0076844262295082
+"ETiX-Day6-2","Gut",12,0.00614754098360656
+"ETiX-Day6-2","Parietal endoderm",166,0.0850409836065574
+"ETiX-Day6-2","Visceral endoderm",198,0.101434426229508
+"ETiX-Day6-2","Amniotic mesoderm",4,0.00204918032786885
+"ETiX-Day6-2","Allantois",15,0.0076844262295082
+"ETiX-Day6-2","Extraembryonic ectoderm",204,0.104508196721311
+"ETiX-Day6-2","Hematoendothelial progenitors",16,0.00819672131147541
+"ETiX-Day6-2","Early development",1231,0.630635245901639
+"ETiX-Day6-3","Endothelium",40,0.0100755667506297
+"ETiX-Day6-3","Paraxial mesoderm",5,0.00125944584382872
+"ETiX-Day6-3","Neuromesodermal progenitors",13,0.00327455919395466
+"ETiX-Day6-3","Neural crest",1,0.000251889168765743
+"ETiX-Day6-3","Neuroectoderm",4,0.00100755667506297
+"ETiX-Day6-3","Surface ectoderm",1,0.000251889168765743
+"ETiX-Day6-3","Gut",1,0.000251889168765743
+"ETiX-Day6-3","Parietal endoderm",172,0.0433249370277078
+"ETiX-Day6-3","Visceral endoderm",540,0.136020151133501
+"ETiX-Day6-3","Amniotic mesoderm",2,0.000503778337531486
+"ETiX-Day6-3","Allantois",3,0.000755667506297229
+"ETiX-Day6-3","Extraembryonic ectoderm",1114,0.280604534005038
+"ETiX-Day6-3","Hematoendothelial progenitors",104,0.0261964735516373
+"ETiX-Day6-3","Early development",1970,0.496221662468514
+"ETiX-Day6-failed-1","Endothelium",88,0.0127259580621837
+"ETiX-Day6-failed-1","Megakaryocytes",2,0.000289226319595083
+"ETiX-Day6-failed-1","Cardiac mesoderm",2,0.000289226319595083
+"ETiX-Day6-failed-1","Paraxial mesoderm",26,0.00375994215473608
+"ETiX-Day6-failed-1","Neuromesodermal progenitors",37,0.00535068691250904
+"ETiX-Day6-failed-1","Neuroectoderm",3,0.000433839479392625
+"ETiX-Day6-failed-1","Surface ectoderm",82,0.0118582791033984
+"ETiX-Day6-failed-1","Gut",19,0.00274765003615329
+"ETiX-Day6-failed-1","Parietal endoderm",217,0.0313810556760665
+"ETiX-Day6-failed-1","Visceral endoderm",1147,0.16587129428778
+"ETiX-Day6-failed-1","Amniotic mesoderm",9,0.00130151843817787
+"ETiX-Day6-failed-1","Allantois",15,0.00216919739696312
+"ETiX-Day6-failed-1","Extraembryonic ectoderm",1261,0.1823571945047
+"ETiX-Day6-failed-1","Hematoendothelial progenitors",214,0.0309472161966739
+"ETiX-Day6-failed-1","Early development",3793,0.548517715112075
+"ETiX-Day6-failed-2","Surface ectoderm",1,0.000634115409004439
+"ETiX-Day6-failed-2","Gut",1,0.000634115409004439
+"ETiX-Day6-failed-2","Parietal endoderm",281,0.178186429930247
+"ETiX-Day6-failed-2","Visceral endoderm",71,0.0450221940393152
+"ETiX-Day6-failed-2","Extraembryonic ectoderm",575,0.364616360177552
+"ETiX-Day6-failed-2","Early development",648,0.410906785034876
+"ETiX-Day8-1","Endothelium",1869,0.0654893303899926
+"ETiX-Day8-1","White blood cells",215,0.0075335505799082
+"ETiX-Day8-1","Megakaryocytes",107,0.00374925540488454
+"ETiX-Day8-1","Primitive erythroid cells",598,0.0209537825431865
+"ETiX-Day8-1","Heart field",829,0.0290479694453204
+"ETiX-Day8-1","Cardiac mesoderm",913,0.0319913101370055
+"ETiX-Day8-1","Paraxial mesoderm",2290,0.0802410736185571
+"ETiX-Day8-1","Neuromesodermal progenitors",863,0.0302393216300501
+"ETiX-Day8-1","Neural crest",310,0.0108623287431234
+"ETiX-Day8-1","Neuroectoderm",1994,0.0698693016573811
+"ETiX-Day8-1","Surface ectoderm",2117,0.0741791933844914
+"ETiX-Day8-1","Gut",222,0.00777882897088195
+"ETiX-Day8-1","Parietal endoderm",3015,0.10564490696941
+"ETiX-Day8-1","Visceral endoderm",2433,0.0852517607484495
+"ETiX-Day8-1","Amniotic mesoderm",4802,0.168260976207996
+"ETiX-Day8-1","Allantois",2525,0.0884754196012474
+"ETiX-Day8-1","Extraembryonic ectoderm",3240,0.11352885525071
+"ETiX-Day8-1","Hematoendothelial progenitors",75,0.00262798276043309
+"ETiX-Day8-1","Early development",122,0.00427485195697116
+"ETiX-Day8-2","Endothelium",1714,0.133240049751244
+"ETiX-Day8-2","White blood cells",108,0.0083955223880597
+"ETiX-Day8-2","Megakaryocytes",68,0.00528606965174129
+"ETiX-Day8-2","Primitive erythroid cells",298,0.0231654228855721
+"ETiX-Day8-2","Heart field",102,0.00792910447761194
+"ETiX-Day8-2","Cardiac mesoderm",260,0.0202114427860697
+"ETiX-Day8-2","Paraxial mesoderm",783,0.0608675373134328
+"ETiX-Day8-2","Neuromesodermal progenitors",419,0.0325715174129353
+"ETiX-Day8-2","Neural crest",221,0.0171797263681592
+"ETiX-Day8-2","Neuroectoderm",1019,0.0792133084577114
+"ETiX-Day8-2","Surface ectoderm",627,0.048740671641791
+"ETiX-Day8-2","Gut",73,0.00567475124378109
+"ETiX-Day8-2","Parietal endoderm",419,0.0325715174129353
+"ETiX-Day8-2","Visceral endoderm",1231,0.095693407960199
+"ETiX-Day8-2","Amniotic mesoderm",2583,0.200792910447761
+"ETiX-Day8-2","Allantois",1838,0.142879353233831
+"ETiX-Day8-2","Extraembryonic ectoderm",1030,0.080068407960199
+"ETiX-Day8-2","Hematoendothelial progenitors",10,0.000777363184079602
+"ETiX-Day8-2","Early development",61,0.00474191542288557
+"ETiX-Day8-3","Endothelium",1131,0.0812967222541691
+"ETiX-Day8-3","White blood cells",140,0.0100632547441058
+"ETiX-Day8-3","Megakaryocytes",67,0.00481598619896492
+"ETiX-Day8-3","Primitive erythroid cells",533,0.0383122484186314
+"ETiX-Day8-3","Heart field",272,0.019551466359977
+"ETiX-Day8-3","Cardiac mesoderm",200,0.0143760782058654
+"ETiX-Day8-3","Paraxial mesoderm",819,0.058870040253019
+"ETiX-Day8-3","Neuromesodermal progenitors",315,0.0226423231742381
+"ETiX-Day8-3","Neural crest",183,0.0131541115583669
+"ETiX-Day8-3","Neuroectoderm",796,0.0572167912593445
+"ETiX-Day8-3","Surface ectoderm",1210,0.0869752731454859
+"ETiX-Day8-3","Gut",215,0.0154542840713053
+"ETiX-Day8-3","Parietal endoderm",2063,0.148289246693502
+"ETiX-Day8-3","Visceral endoderm",1264,0.0908568142610696
+"ETiX-Day8-3","Amniotic mesoderm",1846,0.132691201840138
+"ETiX-Day8-3","Allantois",668,0.0480161012075906
+"ETiX-Day8-3","Extraembryonic ectoderm",1948,0.140023001725129
+"ETiX-Day8-3","Hematoendothelial progenitors",73,0.00524726854514089
+"ETiX-Day8-3","Early development",169,0.0121477860839563
+"ETiX-Day8-4","Endothelium",1763,0.122388059701493
+"ETiX-Day8-4","White blood cells",200,0.0138840680319334
+"ETiX-Day8-4","Megakaryocytes",172,0.0119402985074627
+"ETiX-Day8-4","Primitive erythroid cells",747,0.0518569940992711
+"ETiX-Day8-4","Heart field",348,0.024158278375564
+"ETiX-Day8-4","Cardiac mesoderm",212,0.0147171121138494
+"ETiX-Day8-4","Paraxial mesoderm",522,0.0362374175633461
+"ETiX-Day8-4","Neuromesodermal progenitors",416,0.0288788615064214
+"ETiX-Day8-4","Neural crest",76,0.00527594585213468
+"ETiX-Day8-4","Neuroectoderm",548,0.0380423464074974
+"ETiX-Day8-4","Surface ectoderm",1058,0.0734467198889275
+"ETiX-Day8-4","Gut",66,0.00458174245053801
+"ETiX-Day8-4","Parietal endoderm",1123,0.0779590419993058
+"ETiX-Day8-4","Visceral endoderm",662,0.0459562651856994
+"ETiX-Day8-4","Amniotic mesoderm",2767,0.192086081221798
+"ETiX-Day8-4","Allantois",1530,0.10621312044429
+"ETiX-Day8-4","Extraembryonic ectoderm",2094,0.145366192294342
+"ETiX-Day8-4","Hematoendothelial progenitors",45,0.00312391530718501
+"ETiX-Day8-4","Early development",56,0.00388753904894134
+"ETiX-Day8-5","Endothelium",514,0.0508407517309594
+"ETiX-Day8-5","White blood cells",53,0.00524233432245302
+"ETiX-Day8-5","Megakaryocytes",31,0.00306627101879327
+"ETiX-Day8-5","Primitive erythroid cells",108,0.0106824925816024
+"ETiX-Day8-5","Heart field",430,0.0425321463897132
+"ETiX-Day8-5","Cardiac mesoderm",390,0.0385756676557863
+"ETiX-Day8-5","Paraxial mesoderm",848,0.0838773491592483
+"ETiX-Day8-5","Neuromesodermal progenitors",311,0.0307616221562809
+"ETiX-Day8-5","Neural crest",147,0.014540059347181
+"ETiX-Day8-5","Neuroectoderm",1210,0.119683481701286
+"ETiX-Day8-5","Surface ectoderm",1041,0.102967359050445
+"ETiX-Day8-5","Gut",153,0.01513353115727
+"ETiX-Day8-5","Parietal endoderm",404,0.0399604352126607
+"ETiX-Day8-5","Visceral endoderm",1628,0.161028684470821
+"ETiX-Day8-5","Amniotic mesoderm",1581,0.156379821958457
+"ETiX-Day8-5","Allantois",372,0.0367952522255193
+"ETiX-Day8-5","Extraembryonic ectoderm",823,0.081404549950544
+"ETiX-Day8-5","Hematoendothelial progenitors",16,0.00158259149357072
+"ETiX-Day8-5","Early development",50,0.00494559841740851
+"ETiX-Day8-failed-1","Endothelium",1134,0.072197109568982
+"ETiX-Day8-failed-1","White blood cells",138,0.00878589164066976
+"ETiX-Day8-failed-1","Megakaryocytes",70,0.00445661170178901
+"ETiX-Day8-failed-1","Primitive erythroid cells",1055,0.0671675049341058
+"ETiX-Day8-failed-1","Heart field",143,0.00910422104794041
+"ETiX-Day8-failed-1","Cardiac mesoderm",130,0.00827656458903673
+"ETiX-Day8-failed-1","Paraxial mesoderm",221,0.0140701598013624
+"ETiX-Day8-failed-1","Neuromesodermal progenitors",316,0.0201184185395047
+"ETiX-Day8-failed-1","Neural crest",15,0.000954988221811931
+"ETiX-Day8-failed-1","Neuroectoderm",174,0.0110778633730184
+"ETiX-Day8-failed-1","Surface ectoderm",630,0.0401095053161011
+"ETiX-Day8-failed-1","Gut",176,0.0112051951359267
+"ETiX-Day8-failed-1","Parietal endoderm",2470,0.157254727191698
+"ETiX-Day8-failed-1","Visceral endoderm",930,0.0592092697523397
+"ETiX-Day8-failed-1","Amniotic mesoderm",2205,0.140383268606354
+"ETiX-Day8-failed-1","Allantois",1095,0.069714140192271
+"ETiX-Day8-failed-1","Extraembryonic ectoderm",4492,0.285987139491946
+"ETiX-Day8-failed-1","Hematoendothelial progenitors",76,0.00483860699051378
+"ETiX-Day8-failed-1","Early development",237,0.0150888139046285
+"ETiX-Day8-failed-2","Endothelium",1706,0.0987268518518519
+"ETiX-Day8-failed-2","White blood cells",104,0.00601851851851852
+"ETiX-Day8-failed-2","Megakaryocytes",54,0.003125
+"ETiX-Day8-failed-2","Primitive erythroid cells",370,0.021412037037037
+"ETiX-Day8-failed-2","Heart field",304,0.0175925925925926
+"ETiX-Day8-failed-2","Cardiac mesoderm",353,0.0204282407407407
+"ETiX-Day8-failed-2","Paraxial mesoderm",838,0.0484953703703704
+"ETiX-Day8-failed-2","Neuromesodermal progenitors",505,0.029224537037037
+"ETiX-Day8-failed-2","Neural crest",85,0.00491898148148148
+"ETiX-Day8-failed-2","Neuroectoderm",609,0.0352430555555556
+"ETiX-Day8-failed-2","Surface ectoderm",1077,0.0623263888888889
+"ETiX-Day8-failed-2","Gut",191,0.0110532407407407
+"ETiX-Day8-failed-2","Parietal endoderm",1472,0.0851851851851852
+"ETiX-Day8-failed-2","Visceral endoderm",1335,0.0772569444444444
+"ETiX-Day8-failed-2","Amniotic mesoderm",2942,0.17025462962963
+"ETiX-Day8-failed-2","Allantois",1678,0.0971064814814815
+"ETiX-Day8-failed-2","Extraembryonic ectoderm",3451,0.199710648148148
+"ETiX-Day8-failed-2","Hematoendothelial progenitors",57,0.00329861111111111
+"ETiX-Day8-failed-2","Early development",149,0.00862268518518518
+"ETiX-Day8-failed-3","Endothelium",1531,0.121450103125496
+"ETiX-Day8-failed-3","White blood cells",154,0.012216404886562
+"ETiX-Day8-failed-3","Megakaryocytes",78,0.00618752974773917
+"ETiX-Day8-failed-3","Primitive erythroid cells",209,0.0165794066317627
+"ETiX-Day8-failed-3","Heart field",86,0.00682214818340473
+"ETiX-Day8-failed-3","Cardiac mesoderm",219,0.0173726796763446
+"ETiX-Day8-failed-3","Paraxial mesoderm",251,0.0199111534190068
+"ETiX-Day8-failed-3","Neuromesodermal progenitors",227,0.0180072981120102
+"ETiX-Day8-failed-3","Neural crest",53,0.00420434713628431
+"ETiX-Day8-failed-3","Neuroectoderm",139,0.011026495319689
+"ETiX-Day8-failed-3","Surface ectoderm",536,0.0425194351895923
+"ETiX-Day8-failed-3","Gut",206,0.0163414247183881
+"ETiX-Day8-failed-3","Parietal endoderm",1084,0.0859907980326828
+"ETiX-Day8-failed-3","Visceral endoderm",765,0.0606853879105188
+"ETiX-Day8-failed-3","Amniotic mesoderm",3131,0.248373790258607
+"ETiX-Day8-failed-3","Allantois",1227,0.0973346025702047
+"ETiX-Day8-failed-3","Extraembryonic ectoderm",2507,0.198873552276694
+"ETiX-Day8-failed-3","Hematoendothelial progenitors",59,0.00468031096303348
+"ETiX-Day8-failed-3","Early development",144,0.01142313184198
+"ETiX-Day8-failed-4","Endothelium",1493,0.0930333998005982
+"ETiX-Day8-failed-4","White blood cells",170,0.0105932203389831
+"ETiX-Day8-failed-4","Megakaryocytes",153,0.00953389830508475
+"ETiX-Day8-failed-4","Primitive erythroid cells",539,0.033586739780658
+"ETiX-Day8-failed-4","Heart field",572,0.0356430707876371
+"ETiX-Day8-failed-4","Cardiac mesoderm",640,0.0398803589232303
+"ETiX-Day8-failed-4","Paraxial mesoderm",746,0.0464855433698903
+"ETiX-Day8-failed-4","Neuromesodermal progenitors",309,0.0192547357926221
+"ETiX-Day8-failed-4","Neural crest",87,0.00542123629112662
+"ETiX-Day8-failed-4","Neuroectoderm",631,0.0393195413758724
+"ETiX-Day8-failed-4","Surface ectoderm",868,0.0540877367896311
+"ETiX-Day8-failed-4","Gut",217,0.0135219341974078
+"ETiX-Day8-failed-4","Parietal endoderm",1054,0.0656779661016949
+"ETiX-Day8-failed-4","Visceral endoderm",990,0.0616899302093719
+"ETiX-Day8-failed-4","Amniotic mesoderm",3838,0.239157527417747
+"ETiX-Day8-failed-4","Allantois",1801,0.112225822532403
+"ETiX-Day8-failed-4","Extraembryonic ectoderm",1839,0.11459371884347
+"ETiX-Day8-failed-4","Hematoendothelial progenitors",35,0.00218095712861416
+"ETiX-Day8-failed-4","Early development",66,0.00411266201395813
+"ETiX-Day8-Pax6neg-1","Endothelium",1178,0.0807291666666667
+"ETiX-Day8-Pax6neg-1","White blood cells",85,0.00582510964912281
+"ETiX-Day8-Pax6neg-1","Megakaryocytes",42,0.00287828947368421
+"ETiX-Day8-Pax6neg-1","Primitive erythroid cells",186,0.0127467105263158
+"ETiX-Day8-Pax6neg-1","Heart field",208,0.0142543859649123
+"ETiX-Day8-Pax6neg-1","Cardiac mesoderm",440,0.0301535087719298
+"ETiX-Day8-Pax6neg-1","Paraxial mesoderm",1943,0.133155153508772
+"ETiX-Day8-Pax6neg-1","Neuromesodermal progenitors",363,0.0248766447368421
+"ETiX-Day8-Pax6neg-1","Neural crest",139,0.00952576754385965
+"ETiX-Day8-Pax6neg-1","Neuroectoderm",1181,0.0809347587719298
+"ETiX-Day8-Pax6neg-1","Surface ectoderm",1416,0.0970394736842105
+"ETiX-Day8-Pax6neg-1","Gut",359,0.0246025219298246
+"ETiX-Day8-Pax6neg-1","Parietal endoderm",954,0.0653782894736842
+"ETiX-Day8-Pax6neg-1","Visceral endoderm",1781,0.122053179824561
+"ETiX-Day8-Pax6neg-1","Amniotic mesoderm",2375,0.162760416666667
+"ETiX-Day8-Pax6neg-1","Allantois",919,0.0629797149122807
+"ETiX-Day8-Pax6neg-1","Extraembryonic ectoderm",964,0.0660635964912281
+"ETiX-Day8-Pax6neg-1","Hematoendothelial progenitors",17,0.00116502192982456
+"ETiX-Day8-Pax6neg-1","Early development",42,0.00287828947368421
+"ETiX-Day8-Pax6neg-2","Endothelium",1362,0.11250619527507
+"ETiX-Day8-Pax6neg-2","White blood cells",44,0.00363456137452503
+"ETiX-Day8-Pax6neg-2","Megakaryocytes",49,0.00404757971253924
+"ETiX-Day8-Pax6neg-2","Primitive erythroid cells",149,0.0123079464728234
+"ETiX-Day8-Pax6neg-2","Heart field",244,0.0201552948950933
+"ETiX-Day8-Pax6neg-2","Cardiac mesoderm",541,0.0446885841731373
+"ETiX-Day8-Pax6neg-2","Paraxial mesoderm",1499,0.12382289773666
+"ETiX-Day8-Pax6neg-2","Neuromesodermal progenitors",325,0.0268461919709235
+"ETiX-Day8-Pax6neg-2","Neural crest",132,0.0109036841235751
+"ETiX-Day8-Pax6neg-2","Neuroectoderm",913,0.0754171485213943
+"ETiX-Day8-Pax6neg-2","Surface ectoderm",1084,0.0895423756814803
+"ETiX-Day8-Pax6neg-2","Gut",107,0.00883859243350405
+"ETiX-Day8-Pax6neg-2","Parietal endoderm",385,0.031802412027094
+"ETiX-Day8-Pax6neg-2","Visceral endoderm",619,0.0511316702461589
+"ETiX-Day8-Pax6neg-2","Amniotic mesoderm",2391,0.197505369238394
+"ETiX-Day8-Pax6neg-2","Allantois",1327,0.109615066908971
+"ETiX-Day8-Pax6neg-2","Extraembryonic ectoderm",892,0.0736824715017347
+"ETiX-Day8-Pax6neg-2","Hematoendothelial progenitors",6,0.000495622005617049
+"ETiX-Day8-Pax6neg-2","Early development",37,0.00305633570130514
+"NE-E7.5-1","Endothelium",19,0.00682471264367816
+"NE-E7.5-1","Paraxial mesoderm",2,0.000718390804597701
+"NE-E7.5-1","Neuromesodermal progenitors",5,0.00179597701149425
+"NE-E7.5-1","Neuroectoderm",1,0.000359195402298851
+"NE-E7.5-1","Surface ectoderm",2,0.000718390804597701
+"NE-E7.5-1","Gut",5,0.00179597701149425
+"NE-E7.5-1","Parietal endoderm",145,0.0520833333333333
+"NE-E7.5-1","Visceral endoderm",422,0.151580459770115
+"NE-E7.5-1","Allantois",1,0.000359195402298851
+"NE-E7.5-1","Extraembryonic ectoderm",1307,0.469468390804598
+"NE-E7.5-1","Hematoendothelial progenitors",110,0.0395114942528736
+"NE-E7.5-1","Early development",765,0.274784482758621
+"NE-E7.5-2","Endothelium",15,0.00398936170212766
+"NE-E7.5-2","Paraxial mesoderm",4,0.00106382978723404
+"NE-E7.5-2","Neuromesodermal progenitors",1,0.000265957446808511
+"NE-E7.5-2","Neuroectoderm",2,0.000531914893617021
+"NE-E7.5-2","Surface ectoderm",3,0.000797872340425532
+"NE-E7.5-2","Gut",5,0.00132978723404255
+"NE-E7.5-2","Parietal endoderm",136,0.0361702127659574
+"NE-E7.5-2","Visceral endoderm",600,0.159574468085106
+"NE-E7.5-2","Extraembryonic ectoderm",1495,0.397606382978723
+"NE-E7.5-2","Hematoendothelial progenitors",143,0.038031914893617
+"NE-E7.5-2","Early development",1356,0.36063829787234
+"NE-E7.5-3","Endothelium",40,0.00686813186813187
+"NE-E7.5-3","White blood cells",6,0.00103021978021978
+"NE-E7.5-3","Primitive erythroid cells",1,0.000171703296703297
+"NE-E7.5-3","Cardiac mesoderm",2,0.000343406593406593
+"NE-E7.5-3","Paraxial mesoderm",66,0.0113324175824176
+"NE-E7.5-3","Neuromesodermal progenitors",15,0.00257554945054945
+"NE-E7.5-3","Neural crest",6,0.00103021978021978
+"NE-E7.5-3","Neuroectoderm",32,0.00549450549450549
+"NE-E7.5-3","Surface ectoderm",67,0.0115041208791209
+"NE-E7.5-3","Gut",42,0.00721153846153846
+"NE-E7.5-3","Parietal endoderm",84,0.0144230769230769
+"NE-E7.5-3","Visceral endoderm",764,0.131181318681319
+"NE-E7.5-3","Amniotic mesoderm",5,0.000858516483516484
+"NE-E7.5-3","Allantois",4,0.000686813186813187
+"NE-E7.5-3","Extraembryonic ectoderm",2145,0.368303571428571
+"NE-E7.5-3","Hematoendothelial progenitors",248,0.0425824175824176
+"NE-E7.5-3","Early development",2297,0.394402472527473
+"NE-E8","Endothelium",922,0.0707543549996163
+"NE-E8","White blood cells",38,0.00291612309109048
+"NE-E8","Megakaryocytes",23,0.00176502187092318
+"NE-E8","Primitive erythroid cells",478,0.0366817588826644
+"NE-E8","Heart field",210,0.0161154170823421
+"NE-E8","Cardiac mesoderm",192,0.0147340956181414
+"NE-E8","Paraxial mesoderm",1174,0.0900928554984268
+"NE-E8","Neuromesodermal progenitors",1029,0.0789655437034763
+"NE-E8","Neural crest",134,0.0102831709001612
+"NE-E8","Neuroectoderm",1403,0.107666334126314
+"NE-E8","Surface ectoderm",1005,0.0771237817512087
+"NE-E8","Gut",243,0.0186478397667102
+"NE-E8","Parietal endoderm",79,0.00606246642621441
+"NE-E8","Visceral endoderm",1863,0.142966771544778
+"NE-E8","Amniotic mesoderm",902,0.0692195533727266
+"NE-E8","Allantois",306,0.0234824648914128
+"NE-E8","Extraembryonic ectoderm",1489,0.11426598112194
+"NE-E8","Hematoendothelial progenitors",409,0.0313866932698949
+"NE-E8","Early development",1132,0.0868697720819584
+"NE-E8.5","Endothelium",1266,0.0870581763168753
+"NE-E8.5","White blood cells",68,0.00467611057626186
+"NE-E8.5","Megakaryocytes",71,0.00488240957227342
+"NE-E8.5","Primitive erythroid cells",641,0.0440792188144684
+"NE-E8.5","Heart field",250,0.0171915830009627
+"NE-E8.5","Cardiac mesoderm",270,0.0185669096410397
+"NE-E8.5","Paraxial mesoderm",789,0.0542566359510384
+"NE-E8.5","Neuromesodermal progenitors",530,0.036446155962041
+"NE-E8.5","Neural crest",165,0.0113464447806354
+"NE-E8.5","Neuroectoderm",1053,0.072410947600055
+"NE-E8.5","Surface ectoderm",887,0.0609957364874158
+"NE-E8.5","Gut",252,0.0173291156649704
+"NE-E8.5","Parietal endoderm",340,0.0233805528813093
+"NE-E8.5","Visceral endoderm",1812,0.124604593590978
+"NE-E8.5","Amniotic mesoderm",1512,0.103974693989823
+"NE-E8.5","Allantois",687,0.0472424700866456
+"NE-E8.5","Extraembryonic ectoderm",3828,0.263237518910741
+"NE-E8.5","Hematoendothelial progenitors",49,0.0033695502681887
+"NE-E8.5","Early development",72,0.00495117590427727
+"NE-E8.75","Endothelium",2359,0.0846156605330177
+"NE-E8.75","White blood cells",148,0.00530865526023172
+"NE-E8.75","Megakaryocytes",237,0.00850102227483052
+"NE-E8.75","Primitive erythroid cells",860,0.0308475913770221
+"NE-E8.75","Heart field",418,0.0149933641809247
+"NE-E8.75","Cardiac mesoderm",721,0.0258617597474802
+"NE-E8.75","Paraxial mesoderm",2033,0.0729222712435884
+"NE-E8.75","Neuromesodermal progenitors",864,0.0309910685462176
+"NE-E8.75","Neural crest",347,0.0124466444277054
+"NE-E8.75","Neuroectoderm",2282,0.0818537250260052
+"NE-E8.75","Surface ectoderm",1874,0.0672190537680692
+"NE-E8.75","Gut",200,0.00717385845977259
+"NE-E8.75","Parietal endoderm",543,0.0194770257182826
+"NE-E8.75","Visceral endoderm",1882,0.0675060081064601
+"NE-E8.75","Amniotic mesoderm",3650,0.13092291689085
+"NE-E8.75","Allantois",1974,0.0708059829979554
+"NE-E8.75","Extraembryonic ectoderm",7384,0.264858854334804
+"NE-E8.75","Hematoendothelial progenitors",18,0.000645647261379533
+"NE-E8.75","Early development",85,0.00304888984540335
+"NE-E9.5-1","Endothelium",913,0.10013160780873
+"NE-E9.5-1","White blood cells",61,0.00669006361044089
+"NE-E9.5-1","Megakaryocytes",48,0.00526431234919939
+"NE-E9.5-1","Primitive erythroid cells",95,0.0104189515244571
+"NE-E9.5-1","Heart field",161,0.0176573810046063
+"NE-E9.5-1","Cardiac mesoderm",421,0.0461724062294363
+"NE-E9.5-1","Paraxial mesoderm",1847,0.202566352270235
+"NE-E9.5-1","Neuromesodermal progenitors",220,0.0241280982671639
+"NE-E9.5-1","Neural crest",312,0.034218030269796
+"NE-E9.5-1","Neuroectoderm",1643,0.180193024786137
+"NE-E9.5-1","Surface ectoderm",688,0.0754551436718579
+"NE-E9.5-1","Gut",130,0.014257512612415
+"NE-E9.5-1","Parietal endoderm",166,0.0182057468743145
+"NE-E9.5-1","Visceral endoderm",695,0.0762228558894494
+"NE-E9.5-1","Amniotic mesoderm",916,0.100460627330555
+"NE-E9.5-1","Allantois",445,0.048804562404036
+"NE-E9.5-1","Extraembryonic ectoderm",302,0.0331212985303795
+"NE-E9.5-1","Hematoendothelial progenitors",10,0.00109673173941654
+"NE-E9.5-1","Early development",45,0.00493529282737442
+"NE-E9.5-2","Endothelium",1427,0.0853724199820521
+"NE-E9.5-2","White blood cells",52,0.00311097816332635
+"NE-E9.5-2","Megakaryocytes",96,0.00574334430152558
+"NE-E9.5-2","Primitive erythroid cells",873,0.0522285372419982
+"NE-E9.5-2","Heart field",532,0.0318276996709542
+"NE-E9.5-2","Cardiac mesoderm",659,0.0394256655698474
+"NE-E9.5-2","Paraxial mesoderm",2265,0.135507029614119
+"NE-E9.5-2","Neuromesodermal progenitors",513,0.0306909961112773
+"NE-E9.5-2","Neural crest",293,0.0175291654202812
+"NE-E9.5-2","Neuroectoderm",1527,0.0913550702961412
+"NE-E9.5-2","Surface ectoderm",1242,0.0743045169009871
+"NE-E9.5-2","Gut",113,0.00676039485492073
+"NE-E9.5-2","Parietal endoderm",473,0.0282979359856416
+"NE-E9.5-2","Visceral endoderm",1138,0.0680825605743344
+"NE-E9.5-2","Amniotic mesoderm",2135,0.127729584205803
+"NE-E9.5-2","Allantois",769,0.0460065809153455
+"NE-E9.5-2","Extraembryonic ectoderm",2497,0.149386778342806
+"NE-E9.5-2","Hematoendothelial progenitors",30,0.00179479509422674
+"NE-E9.5-2","Early development",81,0.0048459467544122

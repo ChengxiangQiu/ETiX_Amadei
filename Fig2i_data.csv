@@ -1,0 +1,63 @@
+"sample_ID","celltype","cell_number","cell_fraction_per_embryo"
+"ETiX-Day8-Pax6neg-2","Early neurons",13,0.0142387732749179
+"ETiX-Day8-Pax6neg-2","Floor plate",51,0.0558598028477547
+"ETiX-Day8-Pax6neg-2","Hindbrain & Spinal cord",280,0.306681270536692
+"ETiX-Day8-Pax6neg-2","Mesencephalon & MHB",190,0.208105147864184
+"ETiX-Day8-Pax6neg-2","Prosencephalon",353,0.386637458926616
+"ETiX-Day8-Pax6neg-2","Roof plate",26,0.0284775465498357
+"ETiX-Day8-Pax6neg-1","Early neurons",26,0.0220152413209145
+"ETiX-Day8-Pax6neg-1","Floor plate",66,0.0558848433530906
+"ETiX-Day8-Pax6neg-1","Hindbrain & Spinal cord",468,0.396274343776461
+"ETiX-Day8-Pax6neg-1","Mesencephalon & MHB",132,0.111769686706181
+"ETiX-Day8-Pax6neg-1","Prosencephalon",453,0.383573243014395
+"ETiX-Day8-Pax6neg-1","Roof plate",36,0.0304826418289585
+"ETiX-Day8-failed-4","Early neurons",1,0.00158478605388273
+"ETiX-Day8-failed-4","Floor plate",18,0.0285261489698891
+"ETiX-Day8-failed-4","Hindbrain & Spinal cord",238,0.377179080824089
+"ETiX-Day8-failed-4","Mesencephalon & MHB",96,0.152139461172742
+"ETiX-Day8-failed-4","Prosencephalon",257,0.407290015847861
+"ETiX-Day8-failed-4","Roof plate",21,0.0332805071315372
+"ETiX-Day8-failed-3","Floor plate",6,0.0431654676258993
+"ETiX-Day8-failed-3","Hindbrain & Spinal cord",74,0.532374100719424
+"ETiX-Day8-failed-3","Mesencephalon & MHB",1,0.00719424460431655
+"ETiX-Day8-failed-3","Prosencephalon",54,0.388489208633094
+"ETiX-Day8-failed-3","Roof plate",4,0.0287769784172662
+"ETiX-Day8-failed-2","Early neurons",1,0.00164203612479475
+"ETiX-Day8-failed-2","Floor plate",31,0.0509031198686371
+"ETiX-Day8-failed-2","Hindbrain & Spinal cord",172,0.282430213464696
+"ETiX-Day8-failed-2","Mesencephalon & MHB",21,0.0344827586206897
+"ETiX-Day8-failed-2","Prosencephalon",384,0.630541871921182
+"ETiX-Day8-failed-1","Early neurons",1,0.00574712643678161
+"ETiX-Day8-failed-1","Floor plate",7,0.0402298850574713
+"ETiX-Day8-failed-1","Hindbrain & Spinal cord",91,0.522988505747126
+"ETiX-Day8-failed-1","Mesencephalon & MHB",2,0.0114942528735632
+"ETiX-Day8-failed-1","Prosencephalon",73,0.419540229885057
+"ETiX-Day8-5","Early neurons",44,0.0363636363636364
+"ETiX-Day8-5","Floor plate",82,0.0677685950413223
+"ETiX-Day8-5","Hindbrain & Spinal cord",308,0.254545454545455
+"ETiX-Day8-5","Mesencephalon & MHB",153,0.126446280991736
+"ETiX-Day8-5","Prosencephalon",591,0.488429752066116
+"ETiX-Day8-5","Roof plate",32,0.0264462809917355
+"ETiX-Day8-4","Floor plate",89,0.162408759124088
+"ETiX-Day8-4","Hindbrain & Spinal cord",168,0.306569343065693
+"ETiX-Day8-4","Mesencephalon & MHB",50,0.0912408759124088
+"ETiX-Day8-4","Prosencephalon",219,0.39963503649635
+"ETiX-Day8-4","Roof plate",22,0.0401459854014599
+"ETiX-Day8-3","Early neurons",6,0.00753768844221105
+"ETiX-Day8-3","Floor plate",129,0.162060301507538
+"ETiX-Day8-3","Hindbrain & Spinal cord",309,0.388190954773869
+"ETiX-Day8-3","Mesencephalon & MHB",45,0.0565326633165829
+"ETiX-Day8-3","Prosencephalon",251,0.315326633165829
+"ETiX-Day8-3","Roof plate",56,0.0703517587939698
+"ETiX-Day8-2","Early neurons",1,0.00098135426889107
+"ETiX-Day8-2","Floor plate",28,0.0274779195289499
+"ETiX-Day8-2","Hindbrain & Spinal cord",340,0.333660451422964
+"ETiX-Day8-2","Mesencephalon & MHB",103,0.10107948969578
+"ETiX-Day8-2","Prosencephalon",465,0.456329735034347
+"ETiX-Day8-2","Roof plate",82,0.0804710500490677
+"ETiX-Day8-1","Early neurons",31,0.0155466399197593
+"ETiX-Day8-1","Floor plate",130,0.0651955867602808
+"ETiX-Day8-1","Hindbrain & Spinal cord",805,0.403711133400201
+"ETiX-Day8-1","Mesencephalon & MHB",303,0.151955867602808
+"ETiX-Day8-1","Prosencephalon",678,0.340020060180542
+"ETiX-Day8-1","Roof plate",47,0.0235707121364092
